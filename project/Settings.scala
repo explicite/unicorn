@@ -42,7 +42,8 @@ object Settings {
       </developers>
   ) ++
     Sonatype.sonatypeSettings ++
-    instrumentSettings
+    instrumentSettings ++
+    CoverallsPlugin.coverallsSettings
 
   // common settings for play and core modules
   val common = core ++ Seq(

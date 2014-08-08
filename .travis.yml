@@ -6,3 +6,6 @@ jdk:
   - openjdk7
   - oraclejdk8
 sbt_args: -no-colors
+env:
+  secure: "BwJ0h6mPvYF3TT4zPKqhnm4V7U2aaVURLgrePfZx60gqFxmnBqYGCa6D5AGoPF7wd/EOD0NQZmcTqzHd4MFeYlr7VpsP1KpGXpN/BdCr8C/B1qlSDF4VVw/P3Smx6fYdDDbFv56CI1yMeV+Dlme/Sup3YAkzDoLC0b12I+WtZp4="
+
